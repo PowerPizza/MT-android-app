@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="before_input_text">Number </string>
+    <string name="text_output">OUTPUT</string>
+    <string name="for_developer_button">Developer</string>
+    <string name="place_holder_input">Multiplication table of</string>
+</resources>
